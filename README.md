@@ -1,2 +1,2 @@
-# DSL
-DSL con Jetbrains MPS
+# Buffer
+Implementación de un Búfer de Entrada
