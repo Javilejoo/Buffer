@@ -1,2 +1,2 @@
-# Buffer
-Implementación de un Búfer de Entrada
+# WebScrapping
+Web Scraping con Expresiones Regulares
